@@ -47,7 +47,6 @@ class WNotes extends Component{
             alert("请完善笔记！")
         }
               
-        
     }
     handleCancel(){
         console.log("cancel")
